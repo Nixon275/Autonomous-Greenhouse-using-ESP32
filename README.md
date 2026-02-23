@@ -26,8 +26,8 @@ The system continuously reads five environmental parameters, sends the data to t
 ## 📐 System Architecture
 
 <p align="center">
-  <img src="Slike/Sheme/Block_Diagram.jpg" width="47%" style="margin:4px"/>
-  <img src="Slike/Sheme/Fritzing_Block_Diagram.jpg" width="47%" style="margin:4px"/>
+  <img src="Slike/Sheme/Block_Diagram.PNG" width="47%" style="margin:4px"/>
+  <img src="Slike/Sheme/Fritzing_Block_Diagram.png" width="47%" style="margin:4px"/>
 </p>
 
 ---
